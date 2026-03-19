@@ -113,4 +113,3 @@ The main files that are changed from the original:
 - update of src/object_detection/object_detection/color_obj_detection.py
 - update of ‎src/tracking_control/tracking_control/tracking_node.py to include obstacle callback.
 - update of src/tracking_control/launch/tracking_color_object_launch.py and setup.py to include goal detection node
-- 
